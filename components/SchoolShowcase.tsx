@@ -74,7 +74,7 @@ export default function SchoolShowcase() {
             {/* Cinematic Video Player Container (Renders on the right on desktop, top on mobile) */}
             <div className="relative w-full lg:w-3/5 aspect-video rounded-xl sm:rounded-2xl overflow-hidden border border-white/10 group/video shadow-2xl shadow-brand-cyan/5">
               <video
-                src="/school.mp4"
+                src="https://res.cloudinary.com/dbppaqw68/video/upload/v1781330473/school_wifirs.mp4"
                 autoPlay
                 muted
                 loop

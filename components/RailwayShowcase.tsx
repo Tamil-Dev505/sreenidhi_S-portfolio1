@@ -55,7 +55,7 @@ export default function RailwayShowcase() {
             {/* Cinematic Video Player Container (Renders on the right on desktop, top on mobile) */}
             <div className="relative w-full lg:w-3/5 aspect-video rounded-xl sm:rounded-2xl overflow-hidden border border-white/10 group/video shadow-2xl shadow-brand-purple/5">
               <video
-                src="/railways.mp4"
+                src="https://res.cloudinary.com/dbppaqw68/video/upload/v1781330499/railways_xchvak.mp4"
                 autoPlay
                 muted
                 loop

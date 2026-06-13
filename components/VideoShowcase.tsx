@@ -55,7 +55,7 @@ export default function VideoShowcase() {
             {/* Cinematic Video Player Container */}
             <div className="relative w-full lg:w-3/5 aspect-video rounded-xl sm:rounded-2xl overflow-hidden border border-white/10 group/video shadow-2xl shadow-brand-blue/5">
               <video
-                src="/hospital.mp4"
+                src="https://res.cloudinary.com/dbppaqw68/video/upload/v1781330955/hospital_cizslq.mp4"
                 autoPlay
                 muted
                 loop
