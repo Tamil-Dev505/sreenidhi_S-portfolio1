@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "installCommand": "npm install && git lfs install && git lfs fetch --all && git lfs checkout",
+  "installCommand": "npm install && git lfs pull",
   "env": {
     "ENABLE_VC_BUILD": "1"
   }
