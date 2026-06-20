@@ -99,7 +99,7 @@ export default function Hero() {
               Explore Projects
             </MagneticButton>
           </Link>
-          <a href="/resume/SREENIDHI_S_RESUME.pdf" download="SREENIDHI_S_RESUME.pdf">
+          <a href="/resume/Sreenidhi's_resumee.pdf" download="Sreenidhi's_resumee.pdf">
             <MagneticButton className="border border-brand-purple/50 text-brand-purple">
               Download Resume
             </MagneticButton>
